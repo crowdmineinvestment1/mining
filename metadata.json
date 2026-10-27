@@ -1,0 +1,6 @@
+{
+  "name": "CrowdMine Investing",
+  "description": "CrowdMine Investing - Institutional-grade crypto mining and cloud hashrate investment platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
